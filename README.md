@@ -9,6 +9,9 @@ https://github.com/borislevant/algorithms2/blob/main/Algorithms2_Approximation_A
 * Search Problems: Informed Search A*: [PPTX]()
 
 #### Course books:
+
+[Artificial Intelligence: A Modern Approach, 4th US ed.](https://aima.cs.berkeley.edu/)
+
 Cormen T.H., Leiserson C.E., Rivest R.L., Stein C, Introduction to Algorithms, Third Edition, The MIT Press, 2009
 מבוא לאלגוריתמים, האוניברסיטה הפתוחה, 2008 (תרגום 18 הפרקים הראשונים של הספר הקודם)
 ספרים נוספים: 
